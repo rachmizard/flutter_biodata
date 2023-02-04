@@ -1,4 +1,4 @@
-import 'package:biodata/widgets/controller_carousel.dart';
+import 'package:biodata/widgets/controlled_carousel.dart';
 import 'package:flutter/material.dart';
 
 class Skills extends StatelessWidget {
